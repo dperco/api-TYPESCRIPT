@@ -7,7 +7,7 @@ desde el navgador  escripbimos la peticion  para el ejemplo son celulares
 
        http://127.0.0.1:3001/api/items?q=:celulares
        
-       y nos mostrara algo asi 
+       
        
        
        
@@ -18,7 +18,6 @@ desde el navgador  escripbimos la peticion  para el ejemplo son celulares
 
                      http://127.0.0.1:3001/api/items/MLA1143746497
 
-obtenemos  algo  como esta imagen 
 
         
 
